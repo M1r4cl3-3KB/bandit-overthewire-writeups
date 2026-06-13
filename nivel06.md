@@ -12,6 +12,9 @@ find
 -type f -user bandit7 -group bandit6 -size 33c
 2>/dev/null
 
+## Evidencia
+![Nivel 06](./Imagenes/bandit06.png)
+
 
 ##Explicaciòn
 Como nos pide encontrar el archivo en todo el sistema utilizamos directamente el comando find / que busca desde la raiz 

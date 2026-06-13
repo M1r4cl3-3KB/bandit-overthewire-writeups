@@ -10,6 +10,9 @@ ls -l
 cd inhere
 cat /home/bandit3/inhere/...Hidding-From-You
 
+## Evidencia
+![Nivel 03](./Imagenes/bandit03.png)
+
 ## Explicaciòn 
 
 Utilizamos el comando ls para listar los archivos o directorios dentro de la carpeta de bandit3 lo que nos muetra un

@@ -9,6 +9,9 @@ cat ./*
 cat /home/bandit2/*  
 cat /home/bandit2/--spaces.... 
 
+## Evidencia 
+![Nivel 02](./Imagenes/bandit02.png)
+
 ## Explicaciòn 
 
 Debido a que no podemos hacerle cat a los archivos que empiezan con "--" caracteres debemos pasarle la ruta absoluta 

@@ -9,6 +9,9 @@ podemos filtrar la contraseña que esta junta a caracteres especiales "--"
 strings
 grep 
 
+## Evidencia
+![Nivel 09](./Imagenes/bandit09.png)
+
 ##Explicaciòn
 Verificamos que efectivamente hay un archivo llamado data.txt y al hacerle cat data.txt nos muestra informacion no legible ya que parece que esta encriptada, 
 para poder transformarla a texto plano podemos usar strings sobre el mismo archivo "strings data.txt" por lo que ahora vemos texto plano pero mucha informacion, 

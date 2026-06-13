@@ -12,6 +12,9 @@ awk 'NF{print $NF}'
 xxd -r
 7z l / 7z x
 
+## Evidencia
+![Nivel 12](./Imagenes/bandit12.png)
+
 ##Explicaciòn
 Comprobamos que el archivo esta dumpeado en hexadecimal por lo que dejare los pasos que deberiamos seguir para poder tenerlo hasta al menos en texto plano para poder trabajarlo : 
 1- Hacemos cat al archivo data.txt y copiamos todo lo que hay en su interior. 

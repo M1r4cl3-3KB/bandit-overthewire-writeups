@@ -10,6 +10,10 @@ cat
 echo
 tr 'a-zA-Z' 'n-za-mN-ZA-M'
 
+## Evidencia
+![Nivel 11](./Imagenes/bandit11.png)
+
+
 ##Explicaciòn
 Dentro del archivo data.txt encontramos un string que esta rotado 13 posiciones por lo que si la letra empieza con G antes era T como son 13 posiciones podemos 
 usar el comando tr que transforma un segmento de letras a otras permitiendo asi utilizar el abecederio que conocemos normalmente de la A hasta la Z para poder moder

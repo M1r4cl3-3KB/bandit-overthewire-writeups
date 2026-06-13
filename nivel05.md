@@ -11,6 +11,10 @@ ls
 cd
 find . -type f -readable -size 1033c ! -executable 
 
+## Evidencia
+![Nivel 05](./Imagenes/bandit05.png)
+
+
 ##Explicaciòn
 Listamos dentro de la carpeta de bandit5 y vemos un directorio llamado inhere al cual accedemos usando cd, seguidamente filtramos 
 por las pistas que nos da el ejercicio, utilizamos nuevamente el comando find pero esta vez usando el -size 1033c que indica el tamaño

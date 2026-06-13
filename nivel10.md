@@ -8,6 +8,10 @@ ls
 cat
 base64 -d 
 
+## Evidencia
+![Nivel 10](./Imagenes/bandit10.png)
+
+
 ##Explicaciòn
 Lo que debemos de hacer primeramente es leer el archivo data.txt para ver el mensaje en base64, debemos copiar todo el texgo que nos muestra y seguidamente utilizar el siguiente comando
 echo 'VGhlIHBhc3N3b3JkIGlzIGR0UjE3M2ZaS2IwUlJzREZTR3NnMlJXbnBOVmozcVJyCg==' | base64 -d 

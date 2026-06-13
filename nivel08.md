@@ -9,6 +9,9 @@ grep
 uniq -u 
 sort 
 
+## Evidencia
+![Nivel 08](./Imagenes/bandit08.png)
+
 
 ##Explicaciòn
 Si leemos el archivo nos muestra que hay 1001 lineas disponibles por lo que verificar al ojo o manualmente nos tomara mucho tiempo, usamos de expresiones

@@ -9,6 +9,10 @@ ls
 cat
 grep 
 
+## Evidencia
+![Nivel 07](./Imagenes/bandit07.png)
+
+
 ##Explicaciòn
 Cuando hacemos ls en la carpeta de bandit7 observamos que hay un archivo llamado data.txt el cual contiene muchas lineas de texto por lo que simplemente
 filtramos lo que necesitamos con el comando "grep millionth data.txt" el cual nos da la contraseña al lado derecho de la palabra filtrada. 

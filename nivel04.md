@@ -8,6 +8,9 @@ ls
 cd inhere
 find . -type f -readable | xargs file
 
+## Evidencia
+![Nivel 04](./Imagenes/bandit04.png)
+
 ## Explicacion
 
 Al listar bandit3 con el comando "ls" encontramos un directororio llamado "inhere", al cual accedemos con el comando "cd inhere"

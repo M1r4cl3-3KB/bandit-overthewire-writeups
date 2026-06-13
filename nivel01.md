@@ -7,6 +7,9 @@ Para este nivel tenemos que leer un archivo que tiene como nombre un caracter "-
 ls 
 cat ./*
 
+## Evidencia
+![Nivel 01](./Imagenes/bandit01.png)
+
 ## Explicaciòn Usamos el comando ls para listar los archivos que se encuentran dentro de bandi1 el cual es un archivo
 con nombre "-" al intentar leer unicamente "cat -" verificamos que nos sale error o no nos muestra nada, para eso tenemos 
 que usar ./* el punto representa que estamos en el mismo punto la ruta de /home/bandit1 el / significa que a partir de aqui 
